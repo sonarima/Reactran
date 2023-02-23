@@ -1,5 +1,5 @@
-# [PROJECT NAME]
-
+# [Reactive Transport Exercise]
+ 
 ## Project organization
 - PG = project-generated
 - HW = human-writable
